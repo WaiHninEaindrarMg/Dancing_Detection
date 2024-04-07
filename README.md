@@ -42,7 +42,7 @@ python custom_detection.py
 ```
 
 After run this custom_detection.py, video output will be showed.
-This is result video (multi-person dancing detection and segmentation results when occlusion occurs)
+This is result video (multi-person dancing detection and segmentation results)
 ![Result](https://github.com/WaiHninEaindrarMg/Dancing_Detection/blob/main/output/output_video.gif)
 
 ##
