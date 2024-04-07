@@ -8,7 +8,7 @@ In this project, We focused on detecting people dancing and performance various 
 Multi-person dance detection is a computer vision task aimed at identifying and tracking the movements of multiple individuals within a dance sequence.
 Utilizing advanced algorithms, multi-person dance detection analyzes video frames to identify unique body poses and movements associated with dancing.
 
-### Calculate Binary Mask Area 
+### Calculate Binary Mask Area (Remove Noise)
 For some of the false detections, We filtered out these false detections by calculating the binary mask area.
 
 
@@ -43,7 +43,7 @@ python custom_detection.py
 
 After run this custom_detection.py, video output will be showed.
 This is result video (multi-person dancing detection and segmentation results when occlusion occurs)
-![Result](https://github.com/WaiHninEaindrarMg/Dancing_Detection/blob/main/output/output_video.mp4)
+![Result](https://github.com/WaiHninEaindrarMg/Dancing_Detection/blob/main/output/output_video.gif)
 
 ##
 ## Author
