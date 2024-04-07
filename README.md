@@ -48,8 +48,8 @@ This is result video (multi-person dancing detection and segmentation results wh
 ##
 ## Author
 👤 : Wai Hnin Eaindrar Mg  
-👤 : San Chain Tun
 📧 : [waihnineaindrarmg@gmail.com](mailto:waihnineaindrarmg@gmail.com)
+👤 : San Chain Tun
 📧 : [sanchaintunucsy@gmail.com](mailto:sanchaintunucsy@gmail.com)
 
 
