@@ -8,7 +8,7 @@ In this project, We focused on detecting people dancing and performance various 
 Multi-person dance detection is a computer vision task aimed at identifying and tracking the movements of multiple individuals within a dance sequence.
 Utilizing advanced algorithms, multi-person dance detection analyzes video frames to identify unique body poses and movements associated with dancing.
 
-### Calculate Binary Mask Area (Remove Noise)
+### Calculate Binary Mask Area (Remove Noise Detection)
 For some of the false detections, We filtered out these false detections by calculating the binary mask area.
 
 
